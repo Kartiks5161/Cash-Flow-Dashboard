@@ -2,7 +2,8 @@ Cash Flow Seasonality Optimizer
 A comprehensive, interactive dashboard built with Python and Streamlit to analyze, forecast, and optimize business cash flow. This tool helps users uncover seasonal patterns, project future financial performance, and test business scenarios to make informed decisions.
 
 <!-- Optional: Add a screenshot of your dashboard here -->
-https://github.com/Kartiks5161/Cash-Flow-Dashboard/blob/ccf323508ff8bdd265bb65d6f72e976d5b16972f/Screenshot%202025-07-25%20214805.png
+https://github.com/Kartiks5161/Cash-Flow-Dashboard/blob/main/Screenshot%202025-07-25%20214805.png?raw=true
+
 Features
 Interactive Dashboard: A clean, user-friendly web interface built with Streamlit for easy navigation and analysis.
 
