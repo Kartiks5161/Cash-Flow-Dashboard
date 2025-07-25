@@ -1,9 +1,6 @@
 Cash Flow Seasonality Optimizer
 A comprehensive, interactive dashboard built with Python and Streamlit to analyze, forecast, and optimize business cash flow. This tool helps users uncover seasonal patterns, project future financial performance, and test business scenarios to make informed decisions.
 
-<!-- https://github.com/Kartiks5161/Cash-Flow-Dashboard/blob/main/Screenshot%202025-07-25%20214805.png?raw=true -->
-
-
 Features
 Interactive Dashboard: A clean, user-friendly web interface built with Streamlit for easy navigation and analysis.
 
@@ -36,6 +33,9 @@ The project is organized into a modular structure for clarity and maintainabilit
 ├── main.py                     # A command-line script to run the full analysis pipeline
 └── requirements.txt            # A list of all required Python libraries
 
+
+
+
 How to Run
 There are two ways to run this project: as a command-line report generator or as an interactive web dashboard.
 
@@ -44,15 +44,24 @@ First, install all the necessary libraries from the requirements.txt file.
 
 pip install -r requirements.txt
 
+
+
+
 2. Generate Sample Data
 Before running any analysis, you need to generate the sample data file.
 
 python data_generator.py
 
+
+
+
 3. Running the Interactive Dashboard (Recommended)
 To launch the interactive web application, run the following command from your main project directory:
 
 streamlit run dashboard/streamlit_app.py
+
+
+
 
 Your web browser should automatically open a new tab with the live dashboard.
 
@@ -60,6 +69,9 @@ Your web browser should automatically open a new tab with the live dashboard.
 To run the entire analysis pipeline from the command line and save all reports, charts, and data files to the output/ folder, use this command:
 
 python main.py
+
+
+
 
 Dependencies
 All required Python libraries are listed in the requirements.txt file. Key libraries include:
